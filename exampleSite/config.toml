@@ -38,7 +38,7 @@ logo = "images/logo.png"
 search = true
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "30"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
