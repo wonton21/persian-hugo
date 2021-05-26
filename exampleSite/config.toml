@@ -33,7 +33,7 @@ home = ["HTML", "RSS", "json"]
 author = "Awo"
 contact_form_action = "#"
 copyright = ""
-description = "This is meta description"
+description = "Film Cameras Rock"
 logo = "/images/smallbandcirclecolorized1.png"
 search = true
 [params.cookies]
