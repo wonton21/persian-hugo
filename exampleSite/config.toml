@@ -1,9 +1,9 @@
 baseURL = "https://www.fstopninjanetlify.app"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "en-gb"
 languageName = "En"
 paginate = "5"
-theme = "persian"
+theme = "fstop"
 title = "Persian"
 [markup.goldmark.renderer]
 unsafe = true
