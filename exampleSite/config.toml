@@ -1,8 +1,14 @@
+author = ""
 baseURL = "https://www.fstopninjanetlify.app"
+categories = []
+date = ""
+description = ""
 disqusShortname = ""
+image = ""
 languageCode = "en-gb"
 languageName = "En"
 paginate = "5"
+tags = []
 theme = "fstop"
 title = "Persian"
 [markup.goldmark.renderer]
